@@ -17,4 +17,3 @@ Ce projet explore la valorisation d’un call spread sur le CAC 40 à l’aide d
 
 ---
 **Objectif** : proposer un pricer robuste, fondé sur la théorie moderne des dérivées, permettant de valoriser des options dans un cadre réaliste de volatilité locale.
----
