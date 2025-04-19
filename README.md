@@ -2,6 +2,8 @@
 
 Ce projet explore la valorisation d’un call spread sur le CAC 40 à l’aide des **équations aux dérivées partielles (EDP)**, dans un cadre de **volatilité locale selon le modèle de Dupire**.
 
+📊 Les **résultats** du pricer sur différentes dates, comparées à celles obtenues via SuperDerivatives, sont disponibles dans le dossier `Inputs-Outputs/`, notamment dans le fichier `TestPrixSuperD.xlsx`.
+
 📄 Un document complet décrivant toutes les étapes de modélisation, de calibration et de pricing est disponible dans le dossier `Documents/`.
 
 📚 Tous les articles théoriques utilisés pour construire la méthode sont référencés en fin de note, et les formules implémentées sont issues de sources reconnues (Gatheral, Rouah, Tankov) dans `Articles/`.
